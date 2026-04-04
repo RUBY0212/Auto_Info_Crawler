@@ -7,7 +7,7 @@ from tqdm import tqdm
 # ================= 配置区域 =================
 
 # 1. 在这里填入你的 API Key
-dashscope.api_key = 'sk-fa157927b8e24a2aa5767e906140b8aa'
+dashscope.api_key = ''
 
 # 2. 在这里修改你的 Prompt
 # 注意：我特意在结尾加了一句“请以 JSON 格式输出”，这对生成 Excel 至关重要
